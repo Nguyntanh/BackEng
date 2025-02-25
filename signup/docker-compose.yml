@@ -1,0 +1,6 @@
+services:
+  signup:
+    image: ${DOCKER_REGISTRY-}signup
+    build:
+      context: .
+      dockerfile: signup\Dockerfile

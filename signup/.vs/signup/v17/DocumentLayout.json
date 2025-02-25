@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\",
+  "WorkspaceRootPath": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|c:\\users\\nguyen tuan anh\\desktop\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|d:\\workplace\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|c:\\users\\nguyen tuan anh\\desktop\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|d:\\workplace\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|c:\\users\\nguyen tuan anh\\desktop\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|c:\\users\\nguyen tuan anh\\desktop\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|d:\\workplace\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|c:\\users\\nguyen tuan anh\\desktop\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|d:\\workplace\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|d:\\workplace\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|d:\\workplace\\datn_v\u00E0_cnpm\\backend\\signup\\signup\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{79988634-7924-49E3-AE72-0C5DBABD95B7}|signup\\signup.csproj|solutionrelative:signup\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,64 +46,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Dockerfile",
+              "RelativeDocumentMoniker": "signup\\Dockerfile",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Dockerfile",
+              "RelativeToolTip": "signup\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-25T08:36:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\appsettings.json",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\appsettings.json",
               "RelativeDocumentMoniker": "signup\\appsettings.json",
-              "ToolTip": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\appsettings.json",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\appsettings.json",
               "RelativeToolTip": "signup\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-24T08:48:51.141Z"
+              "WhenOpened": "2025-02-24T08:48:51.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Program.cs",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Program.cs",
               "RelativeDocumentMoniker": "signup\\Program.cs",
-              "ToolTip": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Program.cs*",
-              "RelativeToolTip": "signup\\Program.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Program.cs",
+              "RelativeToolTip": "signup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T08:43:57.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "signup\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Controllers\\UserController.cs",
               "RelativeToolTip": "signup\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAkwEwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:37:01.009Z"
+              "WhenOpened": "2025-02-24T08:37:01.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "signup\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "signup\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:32:52.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "signup\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "signup\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:32:52.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Models\\User.cs",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Models\\User.cs",
               "RelativeDocumentMoniker": "signup\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\NGUYEN TUAN ANH\\Desktop\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Models\\User.cs",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\signup\\signup\\Models\\User.cs",
               "RelativeToolTip": "signup\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T08:29:14.073Z"
+              "WhenOpened": "2025-02-24T08:29:14.073Z",
+              "EditorCaption": ""
             }
           ]
         }
