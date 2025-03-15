@@ -1,9 +1,22 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using register_login.Data;
 using register_login.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+        .AddCookie(options =>
+        {
+            options.LoginPath = "/auth/login";
+            options.LogoutPath = "/auth/logout";
+        });
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminOnly", policy => policy.RequireRole("Admin"));
+});
 
 // Add services
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -24,6 +37,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddControllers();
 
 builder.Services.AddControllersWithViews();
+
 
 // Configure the application
 var app = builder.Build();
@@ -73,9 +87,10 @@ app.UseCors("AllowAllOrigins");
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-app.UseRouting();
 
+app.UseRouting();
 app.UseAuthorization();
+
 
 // Map controller routes (if you want to use controllers later)
 app.MapControllerRoute(

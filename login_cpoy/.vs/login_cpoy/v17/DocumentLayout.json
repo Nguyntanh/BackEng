@@ -33,19 +33,6 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Program.cs",
-              "RelativeDocumentMoniker": "login_cpoy\\Program.cs",
-              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Program.cs*",
-              "RelativeToolTip": "login_cpoy\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T03:54:43.646Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
@@ -55,16 +42,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Program.cs",
+              "RelativeDocumentMoniker": "login_cpoy\\Program.cs",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Program.cs",
+              "RelativeToolTip": "login_cpoy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:54:43.646Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "login_cpoy\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Views\\Account\\Login.cshtml*",
-              "RelativeToolTip": "login_cpoy\\Views\\Account\\Login.cshtml*",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "login_cpoy\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T03:53:12.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:53:12.084Z"
             },
             {
               "$type": "Document",
@@ -72,12 +70,11 @@
               "Title": "ApplicationDbContext .cs",
               "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Data\\ApplicationDbContext .cs",
               "RelativeDocumentMoniker": "login_cpoy\\Data\\ApplicationDbContext .cs",
-              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Data\\ApplicationDbContext .cs*",
-              "RelativeToolTip": "login_cpoy\\Data\\ApplicationDbContext .cs*",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "login_cpoy\\Data\\ApplicationDbContext .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T03:51:58.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:51:58.306Z"
             },
             {
               "$type": "Document",
@@ -85,9 +82,9 @@
               "Title": "AccountController .cs",
               "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Controllers\\AccountController .cs",
               "RelativeDocumentMoniker": "login_cpoy\\Controllers\\AccountController .cs",
-              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Controllers\\AccountController .cs*",
-              "RelativeToolTip": "login_cpoy\\Controllers\\AccountController .cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "login_cpoy\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T03:51:28.165Z",
               "EditorCaption": ""
@@ -98,12 +95,11 @@
               "Title": "User.cs",
               "DocumentMoniker": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Models\\User.cs",
               "RelativeDocumentMoniker": "login_cpoy\\Models\\User.cs",
-              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Models\\User.cs*",
-              "RelativeToolTip": "login_cpoy\\Models\\User.cs*",
+              "ToolTip": "D:\\WorkPlace\\DATN_v\u00E0_CNPM\\BackEnd\\login_cpoy\\login_cpoy\\Models\\User.cs",
+              "RelativeToolTip": "login_cpoy\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T03:50:47.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T03:50:47.731Z"
             }
           ]
         }

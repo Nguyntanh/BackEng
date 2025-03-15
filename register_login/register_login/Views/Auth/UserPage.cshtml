@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "User Page";
+}
+
+<h2>Welcome, @User.Identity.Name!</h2>
+
+<p>You are logged in as a User.</p>
+
+<form method="post" asp-action="Index" asp-controller="Home">
+    <button type="submit" class="btn btn-danger">Logout</button>
+</form>
