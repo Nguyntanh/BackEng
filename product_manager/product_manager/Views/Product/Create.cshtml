@@ -1,0 +1,14 @@
+﻿@model Product
+
+<h2>Add New Product</h2>
+
+<form asp-action="Create">
+    <label>ProductID:</label> <input asp-for="ProductID" class="form-control" />
+    <label>Name:</label> <input asp-for="Name" class="form-control" />
+    <label>Description:</label> <input asp-for="Description" class="form-control" />
+    <label>Price:</label> <input asp-for="Price" class="form-control" />
+    <label>Stock:</label> <input asp-for="StockQuantity" class="form-control" />
+    <label>Category:</label> <input asp-for="Category" class="form-control" />
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
